@@ -1,4 +1,4 @@
-## DevSearch API
+# DevSearch API
 
 > API with Node.js to dev search
 
