@@ -11,7 +11,7 @@ localhost:3333
 ## API
 
 | Verb | URI Pattern |
-|---|---|---|
+|---|---|
 | GET | /devs |
 | POST | /devs |
 | GET | /search |
